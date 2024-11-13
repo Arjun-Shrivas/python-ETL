@@ -29,7 +29,7 @@ def process_data():
 
     print(combined_df.shape)
 
-    load_data_to_db(combined_df.iloc[:2])
+    load_data_to_db(combined_df)
 
     # Step 4: Run Analysis
     results = {
