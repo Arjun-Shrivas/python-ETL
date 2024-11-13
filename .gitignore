@@ -1,0 +1,21 @@
+#
+### IDE
+.idea
+##
+### Environments
+.env
+.venv
+env/
+venv/
+ENV/
+##env.bak/
+##venv.bak/
+##app/.env.development
+##app/.env.production
+##app/.env.test
+##app/static/openapi.json
+##
+### Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
