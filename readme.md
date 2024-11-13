@@ -28,6 +28,12 @@ The ETL process is triggered by invoking the API endpoint, which performs the fo
 
 By following these steps, the ETL pipeline efficiently loads, transforms, and analyzes the data, providing comprehensive insights into the sales data in a single API call.
 
+## Screenshots
+
+| API Response                  | 
+|-------------------------------|
+| ![Screenshot 1](response.png) | 
+
 
 ## Setup your development environment
 ### Clone the repository 
